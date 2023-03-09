@@ -1,0 +1,54 @@
+#centeredDiv {
+    text-align: center;
+}
+
+.container-fluid{
+    width: 70%;
+    background-color: aquamarine;
+    border: solid blue 5px;
+}
+
+#imagen{
+    border:inset 5px cadetblue;
+    width: 200px;
+    height: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mistitulos{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: "Lucida Sans", sans-serif;
+
+}
+
+lord-icon{
+    width: 30px;
+    height:30px;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+}
+
+button {
+    background-color: green;
+    border-radius: 6px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 16px 24px;
+    text-align: center;
+    text-transform: uppercase;
+    width: auto;
+}
+
+button:hover {
+    background-color: red;
+    color: #fff;
+}
+
